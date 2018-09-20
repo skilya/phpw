@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fa30300-1400-4634-a23a-331bc0712a09" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/php/data.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.4640625">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="340">
+                  <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="helper.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/php/helper.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="153">
+                  <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+                  <folding>
+                    <element signature="n#ask#0;n#Helper#0;n#!!top" />
+                    <element signature="n#send_auth_data#0;n#Helper#0;n#!!top" />
+                    <element signature="n#authorization#0;n#Helper#0;n#!!top" />
+                    <element signature="n#print_p#0;n#Helper#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="token.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/php/token.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="data.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/php/data.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1292">
+                  <caret line="115" column="85" lean-forward="true" selection-start-line="115" selection-start-column="85" selection-end-line="115" selection-end-column="85" />
+                  <folding>
+                    <element signature="n#get_data#0;n#Data#0;n#!!top" />
+                    <element signature="n#get_contacts#0;n#Data#0;n#!!top" />
+                    <element signature="n#get_companies#0;n#Data#0;n#!!top" />
+                    <element signature="n#get_leads#0;n#Data#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CSVC.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/php/CSVC.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="170">
+                  <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="skrypt_timer.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/php/skrypt_timer.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="153">
+                  <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+                  <folding>
+                    <element signature="n#start#0;n#skrypt_timer#0;n#!!top" />
+                    <element signature="n#end#0;n#skrypt_timer#0;n#!!top" />
+                    <element signature="n#print_time#0;n#skrypt_timer#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>==</find>
+      <find>get_ms</find>
+      <find>ms_arr_rand()</find>
+      <find>$result[$i]</find>
+      <find>ask</find>
+      <find>ech</find>
+      <find>return</find>
+      <find>&quot;,&quot;</find>
+      <find>\&quot;</find>
+      <find>&quot;;&quot;</find>
+      <find>Helper::print_p</find>
+      <find>\&quot;\&quot;</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/php" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pajes/addobjects.html" />
+        <option value="$PROJECT_DIR$/pajes/close_task.html" />
+        <option value="$PROJECT_DIR$/pajes/add_note.html" />
+        <option value="$PROJECT_DIR$/php/close_task.php" />
+        <option value="$PROJECT_DIR$/pajes/add_field.php" />
+        <option value="$PROJECT_DIR$/pajes/php_ansv.js" />
+        <option value="$PROJECT_DIR$/pajes/add_field.html" />
+        <option value="$PROJECT_DIR$/php/add_note.php" />
+        <option value="$PROJECT_DIR$/pajes/add_task.html" />
+        <option value="$PROJECT_DIR$/php/add_field.php" />
+        <option value="$PROJECT_DIR$/php/test_class.php" />
+        <option value="$PROJECT_DIR$/css/general.css" />
+        <option value="$PROJECT_DIR$/php/add_task.php" />
+        <option value="$PROJECT_DIR$/php/add_obj.php" />
+        <option value="$PROJECT_DIR$/php/skript_timer.php" />
+        <option value="$PROJECT_DIR$/php/jquery.js" />
+        <option value="$PROJECT_DIR$/php/index.html" />
+        <option value="$PROJECT_DIR$/php/skrypt_timer.php" />
+        <option value="$PROJECT_DIR$/php/token.php" />
+        <option value="$PROJECT_DIR$/php/helper.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/php/CSVC.php" />
+        <option value="$PROJECT_DIR$/php/data.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="565" />
+    <option name="y" value="338" />
+    <option name="width" value="974" />
+    <option name="height" value="695" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/OSPanel/domains/localhost/php/skrypt_timer.php" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\localhost\php" />
+      <recent name="C:\OSPanel\domains\localhost\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fa30300-1400-4634-a23a-331bc0712a09" name="Default" comment="" />
+      <created>1535021643342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535021643342</updated>
+      <workItem from="1535021647947" duration="17452000" />
+      <workItem from="1535093215497" duration="11304000" />
+      <workItem from="1535116839432" duration="9940000" />
+      <workItem from="1535354473720" duration="23786000" />
+      <workItem from="1535380069196" duration="6014000" />
+      <workItem from="1535438652674" duration="27389000" />
+      <workItem from="1535467270047" duration="4942000" />
+      <workItem from="1535526802315" duration="28047000" />
+      <workItem from="1535557320299" duration="2392000" />
+      <workItem from="1535612029195" duration="29587000" />
+      <workItem from="1535694958480" duration="25632000" />
+      <workItem from="1535722772387" duration="419000" />
+      <workItem from="1535954513235" duration="20361000" />
+      <workItem from="1536045361003" duration="6538000" />
+      <workItem from="1536059991453" duration="1143000" />
+      <workItem from="1536133452044" duration="3869000" />
+      <workItem from="1536217348397" duration="12250000" />
+      <workItem from="1536316559225" duration="639000" />
+      <workItem from="1536324964547" duration="2183000" />
+      <workItem from="1536563524698" duration="3889000" />
+      <workItem from="1536570399381" duration="10906000" />
+      <workItem from="1536648729306" duration="2391000" />
+      <workItem from="1536658905505" duration="721000" />
+      <workItem from="1536676751249" duration="1031000" />
+      <workItem from="1536733555999" duration="8184000" />
+      <workItem from="1536907153672" duration="2225000" />
+      <workItem from="1536911301787" duration="5703000" />
+      <workItem from="1536921296523" duration="18209000" />
+      <workItem from="1537164301493" duration="26070000" />
+      <workItem from="1537250503821" duration="20238000" />
+      <workItem from="1537335907900" duration="19180000" />
+      <workItem from="1537422755207" duration="3341000" />
+      <workItem from="1537428128043" duration="7118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="363093000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.118229166" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32876712" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943678" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="50" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/php/add_obj.php" />
+    <entry file="file://$PROJECT_DIR$/php/add_obj.php" />
+    <entry file="file://$PROJECT_DIR$/php/add_obj.php" />
+    <entry file="file://$PROJECT_DIR$/php/add_obj.php" />
+    <entry file="file://$PROJECT_DIR$/php/add_obj.php" />
+    <entry file="file://$PROJECT_DIR$/php/add_obj.php" />
+    <entry file="file://$PROJECT_DIR$/css/general.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pajes/add_field.html" />
+    <entry file="file://$PROJECT_DIR$/css/general.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/add_obj.php" />
+    <entry file="file://$PROJECT_DIR$/pajes/add_objects.html" />
+    <entry file="file://$PROJECT_DIR$/php/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+          <folding>
+            <element signature="n#ask#0;n#Helper#0;n#!!top" />
+            <element signature="n#send_auth_data#0;n#Helper#0;n#!!top" />
+            <element signature="n#authorization#0;n#Helper#0;n#!!top" />
+            <element signature="n#print_p#0;n#Helper#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/add_obj.php" />
+    <entry file="file://$PROJECT_DIR$/pajes/add_objects.html" />
+    <entry file="file://$PROJECT_DIR$/php/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+          <folding>
+            <element signature="n#ask#0;n#Helper#0;n#!!top" />
+            <element signature="n#send_auth_data#0;n#Helper#0;n#!!top" />
+            <element signature="n#authorization#0;n#Helper#0;n#!!top" />
+            <element signature="n#print_p#0;n#Helper#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pajes/add_objects.html" />
+    <entry file="file://$PROJECT_DIR$/css/general.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/add_obj.php" />
+    <entry file="file://$PROJECT_DIR$/php/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="44" lean-forward="true" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/add_obj.php" />
+    <entry file="file://$PROJECT_DIR$/pajes/add_objects.html" />
+    <entry file="file://$PROJECT_DIR$/css/general.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/add_obj.php" />
+    <entry file="file://$PROJECT_DIR$/pajes/add_objects.html" />
+    <entry file="file://$PROJECT_DIR$/css/general.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pajes/add_objects.html" />
+    <entry file="file://$PROJECT_DIR$/pajes/close_task.html" />
+    <entry file="file://$PROJECT_DIR$/pajes/add_note.html" />
+    <entry file="file://$PROJECT_DIR$/pajes/add_field.php" />
+    <entry file="file://$PROJECT_DIR$/pajes/php_ansv.js" />
+    <entry file="file://$PROJECT_DIR$/pajes/add_field.html" />
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/log" />
+    <entry file="file://$PROJECT_DIR$/pajes/add_task.html" />
+    <entry file="file://$PROJECT_DIR$/php/cookie.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/add_field.php" />
+    <entry file="file://$PROJECT_DIR$/php/add_note.php" />
+    <entry file="file://$PROJECT_DIR$/php/test_class.php" />
+    <entry file="file://$PROJECT_DIR$/css/general.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="93" column="1" lean-forward="true" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/add_task.php" />
+    <entry file="file://$PROJECT_DIR$/php/close_task.php" />
+    <entry file="file://$PROJECT_DIR$/php/add_obj.php" />
+    <entry file="file://$PROJECT_DIR$/php/jquery.js" />
+    <entry file="file://$PROJECT_DIR$/php/index.html" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="n#ask#0;n#Helper#0;n#!!top" />
+            <element signature="n#send_auth_data#0;n#Helper#0;n#!!top" />
+            <element signature="n#authorization#0;n#Helper#0;n#!!top" />
+            <element signature="n#print_p#0;n#Helper#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/token.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/skrypt_timer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="n#start#0;n#skrypt_timer#0;n#!!top" />
+            <element signature="n#end#0;n#skrypt_timer#0;n#!!top" />
+            <element signature="n#print_time#0;n#skrypt_timer#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/CSVC.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="115" column="85" lean-forward="true" selection-start-line="115" selection-start-column="85" selection-end-line="115" selection-end-column="85" />
+          <folding>
+            <element signature="n#get_data#0;n#Data#0;n#!!top" />
+            <element signature="n#get_contacts#0;n#Data#0;n#!!top" />
+            <element signature="n#get_companies#0;n#Data#0;n#!!top" />
+            <element signature="n#get_leads#0;n#Data#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
